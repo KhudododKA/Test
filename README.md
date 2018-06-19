@@ -2,3 +2,8 @@
 RR workshop RStudio + Git repository
 
 My first commit to GitHub with R
+
+```{r, echo=TRUE}
+data(mtcars)
+head(mtcars)
+```
